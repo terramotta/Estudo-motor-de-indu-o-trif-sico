@@ -2,3 +2,4 @@
 
 Estudo de um motor de indução trifásico, onde analisamos graficamente seu comportamento.
 
+teste teste teste
