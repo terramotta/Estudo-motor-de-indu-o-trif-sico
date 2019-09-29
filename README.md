@@ -1,4 +1,4 @@
-
+https://edisciplinas.usp.br/pluginfile.php/31672/mod_resource/content/1/Teoria.pdf
 
 Os motores elétricos são máquinas que possuem a capacidade de converter a energia elétrica em energia mecânica. Os motores combinam as vantagens da energia elétrica com o baixo custo, facilidade de transporte, limpeza e simplicidade no comando. Os motores de indução possuem uma construção aparentemente simples e seus custos são reduzidos, como por exemplo manutenção, fabricação e montagem, além de fácil adaptação às cargas de diversos tipos.
 
