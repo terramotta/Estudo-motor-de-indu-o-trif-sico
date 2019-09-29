@@ -139,3 +139,17 @@ xlabel('s')
 ylabel('Td e Tc [Nm]')
 s: set(gca,'xdir','reverse');
 legend('Motor','Carga')
+
+figure(6)  % 
+plot(s,Td,'k','linewidth',3) %linha contínua, da cor magenta, com espessura 3
+hold on
+plot(s,Tc,'b','linewidth',2)
+hold off
+
+grid on
+axis([0.9 1.0 0 100])
+
+xlabel('s')
+ylabel('Td e Tc [Nm]')
+s: set(gca,'xdir','reverse');
+legend('Motor','Carga')
