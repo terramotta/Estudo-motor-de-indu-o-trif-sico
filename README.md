@@ -1,3 +1,31 @@
+
+
+Os motores elétricos são máquinas que possuem a capacidade de converter a energia elétrica em energia mecânica. Os motores combinam as vantagens da energia elétrica com o baixo custo, facilidade de transporte, limpeza e simplicidade no comando. Os motores de indução possuem uma construção aparentemente simples e seus custos são reduzidos, como por exemplo manutenção, fabricação e montagem, além de fácil adaptação às cargas de diversos tipos.
+
+Podemos separar os motores por uma infinidade de características, mas o fator determinante, que diferencia as classes de motores é a sua fonte de energia, pois existem os motores que funcionam com corrente contínua e outros com corrente alternada, e alguns podem usar as duas correntes em certas situações, além disso existem os motores monofásicos e finalmente os motores trifásicos.
+Os motores de corrente alternada (AC), que também são conhecidos como motor assíncrono trifásico ou motor de indução são os motores mais utilizados, devido a uma série de vantagens, como por exemplo o baixo custo em manutenção, montagem, fabricação e simplicidade em relação aos motores de corrente contínua, e devido a distribuição de energia elétrica nas instalações serem feitas em corrente alternada.
+
+Motores trifásicos são encontrados facilmente dentro das indústrias, como por exemplo dentro do torno, fresa, esteiras e diversas outras máquinas, mas fora das indústrias podemos encontrar um motor trifásico em um elevador ou na escada rolante por exemplo.
+Para que fique mais claro o entendimento sobre como os motores trifásicos de indução funcionam é importante saber um pouco sobre algumas partes do motor, que neste caso são o rotor e o estator.
+
+O rotor é tudo que gira em torno de seu próprio eixo, de forma a produzindo movimentos de rotação. Os rotores estão presentes em qualquer máquina rotativa, como turbinas e compressores por exemplo.
+Por outro lado, o estator é a parte de um motor ou gerador elétrico que se mantém fixa à carcaça de um motor e tem por função conduzir o fluxo magnético. Assim como nas bobinas, é formado no rotor um campo magnético capaz de induzir uma corrente elétrica.
+O princípio de funcionamento para o motor de indução se baseia na criação de um campo magnético rotativo, ou campo girante. Este campo girante surge a partir da aplicação de tensão alternada no estator, que a partir de então ele consegue produzir um campo magnético rotativo que atravessa os condutores do rotor.
+
+Este campo magnético variável induz no rotor uma força eletromotriz (f.e.m) que, por sua vez, cria o seu próprio campo magnético girante. O campo magnético girante criado pelo rotor, ao “tentar” se alinhar com o campo girante do estator, produz um movimento de rotação no rotor, ou seja, o rotor começa a girar continuamente, sendo que a velocidade do motor é inversamente proporcional ao número de polos que ele possui, ou seja, quanto maior a quantidade de polos do motor menor será a sua velocidade.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Estudo-motor-de-indução-trifásico
 
 Estudo de um motor de indução trifásico, onde analisamos graficamente seu comportamento.
