@@ -1,3 +1,12 @@
+https://docente.ifsc.edu.br/rafael.grebogi/MaterialDidatico/Eletromecanica/Eletricidade%20Industrial%20(OLD)/WEG-curso-dt-6-motores-eletricos-assincrono-de-alta-tensao-artigo-tecnico-portugues-br.pdf
+
+No campo de acionamentos industriais, que é o objeto deste curso, estima-se que de 70 a 80% da energia elétrica
+consumida pelo conjunto de todas as indústrias seja transformada em energia mecânica através dos motores elétricos.
+Isto significa que, admitindo-se um rendimento médio da ordem de 80% do universo de motores em aplicações industriais,
+cerca de 15% da energia elétrica industrial transforma-se em perdas nos motores.
+
+
+
 https://edisciplinas.usp.br/pluginfile.php/31672/mod_resource/content/1/Teoria.pdf
 
 Os motores elétricos são máquinas que possuem a capacidade de converter a energia elétrica em energia mecânica. Os motores combinam as vantagens da energia elétrica com o baixo custo, facilidade de transporte, limpeza e simplicidade no comando. Os motores de indução possuem uma construção aparentemente simples e seus custos são reduzidos, como por exemplo manutenção, fabricação e montagem, além de fácil adaptação às cargas de diversos tipos.
