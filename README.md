@@ -2,9 +2,9 @@
 
 Estudo de um motor de indução trifásico, onde analisamos graficamente seu comportamento.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Enunciado:
+## Enunciado:
 
 Um motor de indução trifásico, ligado em estrela, 220V, 10hp, 60Hz, 6 pólos, tem as
 seguintes constantes, em ohms por fase, do circuito equivalente referido ao estator:
@@ -19,9 +19,9 @@ pela expressão seguinte:
 
 Tc = (w^2)/200 - w/5 + 30
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Pede-se:
+## Pede-se:
 
 a) Representar o circuito equivalente por fase e o circuito equivalente de
 Thévenin do motor.
@@ -57,4 +57,4 @@ j) Verificar se o motor pode partir a carga apresentada, em se podendo,
 determinar graficamente a velocidade final de operação do conjunto em
 regime permanente.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
