@@ -1,3 +1,5 @@
+https://www.matthewchilders.com/product/nikola-tesla-poster/
+
 https://www.blogdoprofessorcarlao.com.br/2014/04/motor-de-inducao-trifasico.html
 
 https://docente.ifsc.edu.br/rafael.grebogi/MaterialDidatico/Eletromecanica/Eletricidade%20Industrial%20(OLD)/WEG-curso-dt-6-motores-eletricos-assincrono-de-alta-tensao-artigo-tecnico-portugues-br.pdf
