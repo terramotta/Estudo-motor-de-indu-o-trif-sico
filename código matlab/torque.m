@@ -1,7 +1,7 @@
 %Este programa traça a curva de conjugado do motor de indução
 %Feito por Pedro Terra
 % Em 28 de setembro de 2019
-% Ultima alteração em 28 de setembro de 2019
+% Ultima alteração em 29 de setembro de 2019
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %  Dados do Motor                          %
@@ -122,7 +122,7 @@ grid on
 xlabel('s')
 ylabel('Td e Tc [Nm]')
 s: set(gca,'xdir','reverse');
-%coordTmax= ginput(1);
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -134,6 +134,7 @@ hold off
 
 grid on
 axis([0.0 0.1 60 100])
+coordSoperacao= ginput(1);
 
 xlabel('s')
 ylabel('Td e Tc [Nm]')
