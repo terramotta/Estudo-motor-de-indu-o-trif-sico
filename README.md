@@ -1,5 +1,5 @@
 
-https://www.twitch.tv/downloads
+README PARA RASCUNHO:
 
 
 
